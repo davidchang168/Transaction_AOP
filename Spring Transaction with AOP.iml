@@ -97,7 +97,9 @@
           <root url="jar://C:/springsource/spring-framework-3.0.5.RELEASE/dist/org.springframework.orm-3.0.5.RELEASE.jar!/" />
         </CLASSES>
         <JAVADOC />
-        <SOURCES />
+        <SOURCES>
+          <root url="jar://C:/springsource/spring-framework-3.0.5.RELEASE/src/org.springframework.orm-sources-3.0.5.RELEASE.jar!/" />
+        </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
